@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-flipCards/static/css/main.337e84b1.chunk.css",
+    "main.js": "/react-flipCards/static/js/main.e8c8589d.chunk.js",
+    "main.js.map": "/react-flipCards/static/js/main.e8c8589d.chunk.js.map",
+    "runtime-main.js": "/react-flipCards/static/js/runtime-main.8d6921b6.js",
+    "runtime-main.js.map": "/react-flipCards/static/js/runtime-main.8d6921b6.js.map",
+    "static/js/2.51c8687d.chunk.js": "/react-flipCards/static/js/2.51c8687d.chunk.js",
+    "static/js/2.51c8687d.chunk.js.map": "/react-flipCards/static/js/2.51c8687d.chunk.js.map",
+    "index.html": "/react-flipCards/index.html",
+    "precache-manifest.1e9671fc7097c117cff1e251684f33a8.js": "/react-flipCards/precache-manifest.1e9671fc7097c117cff1e251684f33a8.js",
+    "service-worker.js": "/react-flipCards/service-worker.js",
+    "static/css/main.337e84b1.chunk.css.map": "/react-flipCards/static/css/main.337e84b1.chunk.css.map",
+    "static/js/2.51c8687d.chunk.js.LICENSE.txt": "/react-flipCards/static/js/2.51c8687d.chunk.js.LICENSE.txt",
+    "static/media/5C.png": "/react-flipCards/static/media/5C.3ac88edd.png",
+    "static/media/5S.png": "/react-flipCards/static/media/5S.5ab3d862.png",
+    "static/media/7D.png": "/react-flipCards/static/media/7D.58d872f0.png",
+    "static/media/AC.png": "/react-flipCards/static/media/AC.17ca9f77.png",
+    "static/media/AD.png": "/react-flipCards/static/media/AD.f37d608f.png",
+    "static/media/AH.png": "/react-flipCards/static/media/AH.a762540d.png",
+    "static/media/blue_back.png": "/react-flipCards/static/media/blue_back.8a890151.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d6921b6.js",
+    "static/js/2.51c8687d.chunk.js",
+    "static/css/main.337e84b1.chunk.css",
+    "static/js/main.e8c8589d.chunk.js"
+  ]
+}
