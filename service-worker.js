@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-flip-cards/precache-manifest.462f3c080ac0909f0ecc9d181e2baaf2.js"
+  "/react-flip-cards/precache-manifest.7b494b77be65e99a326b334241ed7dc7.js"
 );
 
 self.addEventListener('message', (event) => {
