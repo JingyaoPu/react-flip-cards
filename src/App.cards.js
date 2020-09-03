@@ -79,8 +79,6 @@ function Cards(props) {
 
     return (
         <div>
-        <span>{JSON.stringify(cardState)}</span>
-        <span>{JSON.stringify(pair)}</span>
         <div className = "cards-container">
             {cardArray.map(e=>
                 <Card ele = {e} flipped = {cardState[e.value].flipped[e.index]} flip = {try_flip} examine = {examine}/>
